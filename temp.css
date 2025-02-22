@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(2, 71, 79);
+    background: linear-gradient(rgba(3, 116, 158, 0.75), rgba(2, 110, 113, 0.75));
+    
+
+}
+h1
+{
+    color: white;
+    margin-left: 430px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.5), 4px 4px 0 rgba(0, 0, 0, 0.5);    
+}
+.one , .two , .three , .four , .five , .six , .seven , .eight , .nine , .ten
+{
+
+        border: 1px solid rgba(255, 255, 255, 0.648);
+        width: 300px;
+        height: 40px;
+        margin-left: 35%;
+        margin-bottom: 9px; 
+        justify-content: space-between;
+        display: flex;               
+        justify-content: center;     
+        align-items: center; 
+        border-radius: 5px;
+        background-color: rgb(4, 71, 113);
+        box-shadow: 50px;   
+}
+.date {
+    color: white;
+    padding-left: 10px; 
+    flex: 1; 
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.temp, .icon {
+    color: white;
+    padding-right: 10px; 
+    display: flex; 
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;   
+}
+.icon {
+    margin-right: 5px; 
+}
+.one:hover
+{
+    background-color: rgb(1, 52, 80);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+.two:hover
+{
+    background-color: rgb(1, 52, 80);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+.three:hover
+{
+    background-color: rgb(1, 52, 80);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+.four:hover
+{
+    background-color: rgb(1, 52, 80);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+.five:hover
+{
+    background-color: rgb(1, 52, 80);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+.six:hover
+{
+    background-color: rgb(1, 52, 80);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+.seven:hover
+{
+    background-color: rgb(1, 52, 80);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+.eight:hover
+{
+    background-color: rgb(1, 52, 80);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+.nine:hover
+{
+    background-color: rgb(1, 52, 80);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+.ten:hover
+{
+    background-color: rgb(1, 52, 80);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
